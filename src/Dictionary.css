@@ -1,4 +1,6 @@
 .Dictionary{
     background-color: lightgray;
     padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
 }

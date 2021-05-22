@@ -13,9 +13,10 @@ export default function App() {
       <main>
         <Dictionary />
       </main> 
+       </div>
       <img src={catBanner} className="App-logo" alt="logo" />
       <footer className="text-center">Coded by Chiara Cesana</footer>
-      </div>
+     
     </div>
   );
 }
