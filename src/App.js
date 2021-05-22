@@ -8,11 +8,12 @@ export default function App() {
       <div className="container">
       <header className="App-header">
        <h1> Welcome to Dictionary app!</h1>
-        <img src={catBanner} className="App-logo" alt="logo" />
+       
       </header>
       <main>
         <Dictionary />
-      </main>
+      </main> 
+      <img src={catBanner} className="App-logo" alt="logo" />
       <footer className="text-center">Coded by Chiara Cesana</footer>
       </div>
     </div>
