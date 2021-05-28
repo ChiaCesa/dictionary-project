@@ -3,8 +3,6 @@ import Meaning from "./Meaning";
 import Phonetic from "./Phonetic";
 import "./Results.css";
 
-//minuto 24.29
-
 export default function Results(props){
     if (props.results){
        return <div className="Results">
