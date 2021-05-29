@@ -16,7 +16,7 @@ footer{
 .container{
   max-width: 600px;
   min-width: 600px;
- 
+ margin: 0 auto;
 
 }
 .App-logo{
