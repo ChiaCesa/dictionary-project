@@ -11,11 +11,11 @@ export default function App() {
        
       </header>
       <main>
-        <Dictionary defaultKeyword="sunset" />
+        <Dictionary defaultKeyword="Sunset" />
       </main> 
        </div>
       <img src={catBanner} className="App-logo" alt="logo" />
-      <footer className="text-center">Coded by Chiara Cesana</footer>
+      <footer className="text-center">This project was coded by Chiara Cesana and is <a href="https://github.com/ChiaCesa" target="_blank" rel="noreferrer">open-sourced on GitHub</a></footer>
      
     </div>
   );
