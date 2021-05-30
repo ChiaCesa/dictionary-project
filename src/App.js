@@ -11,7 +11,7 @@ export default function App() {
        
       </header>
       <main>
-        <Dictionary defaultKeyword="Sunset" />
+        <Dictionary defaultKeyword="Cat" />
       </main> 
        </div>
       <img src={catBanner} className="App-logo" alt="logo" />
